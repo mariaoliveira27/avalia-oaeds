@@ -44,8 +44,7 @@ int main(void) {
 
 	if (troca == 's') {
 		printf(
-				"Digite um numero diferente da porta escolhida inicialmente(entre 1 "
-						"e 3):");
+				"Digite um numero diferente da porta escolhida inicialmente(entre 1 e 3):");
 		scanf("%d", &portaEscolhida);
 	}
 	if (troca == 'n') {
